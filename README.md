@@ -21,7 +21,7 @@ City Code (https://www.transportation.gov/policy/aviation-policy/domestic-airlin
 - time scope of data is limited
 
 # Conclusion
-Lorem ipsum
+Among the top 5 leading airlines, Southwest Airlines and Delta Airlines have less risk in terms of delay flights; Among the leading airlines, Southwest Airlines and American Airlines have the most delayed flights; Southwest Airlines and American Airlines also have the most cancellations; It is expected to see the same airlines at the top of the lists in all analyses since they have such a large share of the total market; Our advice is to fly with Mid-West Airlines or Gold Jet Airlines if you want to fly on time.
 
 # Collaborators
 Aisyah Amatul Ghina
